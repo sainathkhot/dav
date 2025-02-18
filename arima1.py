@@ -1,3 +1,6 @@
+#this is for vs code. csv and code should be in same directory
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from statsmodels.tsa.stattools import adfuller
